@@ -15,12 +15,12 @@
 ---
 ## EN
 # Write first:
-##This note comes from Bing's Chinese translation into English
-###My English is very pool
+## This note comes from Bing's Chinese translation into English
+### My English is very pool
 
 ---
 ## Illustrate:
-This is just a charger case, not the Switch original base function.**It's just a shelf
+This is just a charger case, not the Switch original base function.**It's just a shelf**
 
 #### In addition to the model in this warehouse, a 90-degree typeC adapter is required with the following dimensions (source store):
 ![image](./1684764901031.jpg)
