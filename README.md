@@ -1,6 +1,6 @@
 # SwitchLiteDock
 ![image](./1684671632716.jpg)
-# [CN](https://github.com/LongFengShuanWu/SwitchLiteDock/edit/main/README.md#cn)  [EN](https://github.com/LongFengShuanWu/SwitchLiteDock/edit/main/README.md#en)
+# [CN](#cn)  [EN](#en)
 ## CN
 ### 说明：
 这只是一个充电器壳子，不具备Switch原版底座功能。**就是一个架子
